@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDF-u0_7NC0y8dENAFedNNywgG2_7IWlfg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>524253465196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sportify.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>sportify-8f1ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportify-8f1ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:524253465196:ios:9a52f7530ed51b942be649</string>
+</dict>
+</plist>
